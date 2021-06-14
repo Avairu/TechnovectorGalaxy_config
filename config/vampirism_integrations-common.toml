@@ -1,0 +1,10 @@
+
+[Compatibility]
+
+	[Compatibility.bloodmagic]
+		enable_compat_bloodmagic = true
+
+	[Compatibility.vampirism]
+		disable_integrations_version_check = false
+		enable_compat_vampirism = true
+

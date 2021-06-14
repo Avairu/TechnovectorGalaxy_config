@@ -1,0 +1,16 @@
+[
+	{
+		"mob": ["iceandfire:fire_dragon","iceandfire:ice_dragon","iceandfire:lightning_dragon"],
+		"result": "allow",
+		"healthadd": 400,
+		"damagemultiply": 2,
+		"speedmultiply": 1
+	},
+	{
+	   "mob": ["minecraft:zombie","iceandfire:cyclops","minecraft:wither"],
+	   "result": "allow",
+	   "healthmultiply": 10,
+	   "damagemultiply": 2,
+	   "speedmultiply": 1
+	 }
+]
