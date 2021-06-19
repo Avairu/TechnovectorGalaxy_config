@@ -1,6 +1,5 @@
 
 [general]
-	#123
 	#How fast amphitheres fly.
 	#Range: 0.0 ~ 3.0
 	"Amphithere Flight Speed" = 1.75
@@ -12,7 +11,7 @@
 	"Troll Attack Strength" = 15.0
 	#Maximum cyclops health
 	#Range: 1.0 ~ 10000.0
-	"Cyclops Max Health" = 100.0
+	"Cyclops Max Health" = 500.0
 	#Dread Lich spawn weight. Lower = lower chance to spawn
 	#Range: 1 ~ 10000
 	"Lich Spawn Weight" = 50
