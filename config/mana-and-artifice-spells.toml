@@ -21,16 +21,16 @@
 	["mana-and-artifice:components/frost_damage".DAMAGE]
 		#Default Value
 		#Range: 0.0 ~ 9999.0
-		default = 5.0
+		default = 10.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 20.0
+		maximum = 50.0
 		#Complexity Value (how much does changing by one tick change the complexity)
 		#Range: 0.0 ~ 9999.0
 		step_complexity = 3.0
 		#Step Value (how much does one click in the inscription table change the value)
 		#Range: 0.0 ~ 9999.0
-		step = 0.5
+		step = 2.5
 		#Minimum Value
 		#Range: 0.0 ~ 9999.0
 		minimum = 1.0
@@ -1095,16 +1095,16 @@
 	["mana-and-artifice:components/drown".DAMAGE]
 		#Default Value
 		#Range: 0.0 ~ 9999.0
-		default = 10.0
+		default = 20.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 30.0
+		maximum = 70.0
 		#Complexity Value (how much does changing by one tick change the complexity)
 		#Range: 0.0 ~ 9999.0
 		step_complexity = 2.0
 		#Step Value (how much does one click in the inscription table change the value)
 		#Range: 0.0 ~ 9999.0
-		step = 1.0
+		step = 5.0
 		#Minimum Value
 		#Range: 0.0 ~ 9999.0
 		minimum = 10.0
@@ -1148,16 +1148,16 @@
 	["mana-and-artifice:components/fire_damage".DAMAGE]
 		#Default Value
 		#Range: 0.0 ~ 9999.0
-		default = 5.0
+		default = 10.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 20.0
+		maximum = 50.0
 		#Complexity Value (how much does changing by one tick change the complexity)
 		#Range: 0.0 ~ 9999.0
 		step_complexity = 3.0
 		#Step Value (how much does one click in the inscription table change the value)
 		#Range: 0.0 ~ 9999.0
-		step = 0.5
+		step = 2.5
 		#Minimum Value
 		#Range: 0.0 ~ 9999.0
 		minimum = 1.0
@@ -1595,16 +1595,16 @@
 	["mana-and-artifice:components/lightning_damage".DAMAGE]
 		#Default Value
 		#Range: 0.0 ~ 9999.0
-		default = 5.0
+		default = 10.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 20.0
+		maximum = 50.0
 		#Complexity Value (how much does changing by one tick change the complexity)
 		#Range: 0.0 ~ 9999.0
 		step_complexity = 3.0
 		#Step Value (how much does one click in the inscription table change the value)
 		#Range: 0.0 ~ 9999.0
-		step = 0.5
+		step = 2.5
 		#Minimum Value
 		#Range: 0.0 ~ 9999.0
 		minimum = 1.0
@@ -1720,16 +1720,16 @@
 	["mana-and-artifice:components/magic_damage".DAMAGE]
 		#Default Value
 		#Range: 0.0 ~ 9999.0
-		default = 5.0
+		default = 10.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 20.0
+		maximum = 50.0
 		#Complexity Value (how much does changing by one tick change the complexity)
 		#Range: 0.0 ~ 9999.0
 		step_complexity = 3.0
 		#Step Value (how much does one click in the inscription table change the value)
 		#Range: 0.0 ~ 9999.0
-		step = 0.5
+		step = 2.5
 		#Minimum Value
 		#Range: 0.0 ~ 9999.0
 		minimum = 1.0
