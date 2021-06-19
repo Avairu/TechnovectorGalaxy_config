@@ -149,14 +149,14 @@
 		fillRate = 16
 		#Jetpack Gas Tank capacity in mB.
 		#Range: 1 ~ 9223372036854775807
-		maxGas = 24000
+		maxGas = 10000
 
 		#Armored Jetpack Settings
 		[gear.jetpack.armored]
 			#Armor value of the Armored Jetpack.
-			armor = 12
+			armor = 4
 			#Toughness value of the Armored Jetpack.
-			toughness = 2.0
+			toughness = 1.0
 
 	#Canteen Settings
 	[gear.canteen]
