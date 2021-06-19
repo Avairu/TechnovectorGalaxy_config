@@ -97,6 +97,10 @@ craftingTable.removeRecipe(<item:mekanism:hdpe_sheet>);
 
 <recipetype:mekanism:enriching>.removeByName("mekanism:enriching/hdpe_sheet");
 
+craftingTable.removeByName("botania:flighttiara_0");
+
+craftingTable.removeRecipe(<item:evilcraft:spirit_reanimator>);
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // New recipe
@@ -404,7 +408,13 @@ craftingTable.addShaped("umbrella_new", <item:vampirism:umbrella>, [
 	 [<item:create:refined_radiance> *2 ], 200, 100000, [<item:mekanism:hdpe_sheet>]);	 
  
 
+// Flight tiara
 
+craftingTable.addShaped("flight_tiara_new", <item:botania:flight_tiara>, [
+        [<item:botania:life_essence>, <item:botania:life_essence>, <item:botania:life_essence>],
+        [<item:botania:elementium_ingot>, <item:mekanism:hdpe_pellet>, <item:botania:elementium_ingot>],
+        [<item:mana-and-artifice:enchantment_focus_air>, <item:bloodmagic:airsigil>, <item:mana-and-artifice:enchantment_focus_air>]
+    ]);
 
 
 println("script has been loaded");
