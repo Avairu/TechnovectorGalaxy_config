@@ -430,7 +430,7 @@
 	[tools.mobArmorSpawnRate]
 		#The chance that Mekanism Armor can spawn on mobs.
 		#Range: 0.0 ~ 1.0
-		general = 0.03
+		general = 0.15
 
 		#Spawn chances for pieces of Steel gear. Note: These values are after the general mobArmorSpawnRate has been checked, and after an even split between armor types has been done.
 		[tools.mobArmorSpawnRate.steel]
@@ -508,16 +508,16 @@
 		[tools.mobArmorSpawnRate.refined_obsidian]
 			#The chance that mobs can spawn with Refined Obsidian Chestplates.
 			#Range: 0.0 ~ 1.0
-			chestplateChance = 0.5
+			chestplateChance = 0.0
 			#The chance that mobs can spawn with Refined Obsidian Boots.
 			#Range: 0.0 ~ 1.0
-			bootsChance = 0.5
+			bootsChance = 0.0
 			#The chance that mobs can spawn with Refined Obsidian Leggings.
 			#Range: 0.0 ~ 1.0
-			leggingsChance = 0.5
+			leggingsChance = 0.0
 			#The chance that mobs can spawn with Refined Obsidian Helmets.
 			#Range: 0.0 ~ 1.0
-			helmetChance = 0.5
+			helmetChance = 0.0
 			#The chance that mobs can spawn with Refined Obsidian Swords.
 			#Range: 0.0 ~ 1.0
 			swordChance = 0.5
