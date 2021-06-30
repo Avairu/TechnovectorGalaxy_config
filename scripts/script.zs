@@ -100,7 +100,6 @@ craftingTable.removeRecipe(<item:mekanism:hdpe_sheet>);
 craftingTable.removeByName("botania:flighttiara_0");
 
 craftingTable.removeRecipe(<item:evilcraft:spirit_reanimator>);
-
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // New recipe
@@ -243,103 +242,104 @@ craftingTable.addShaped("attomic_disassebler_new", <item:mekanism:atomic_disasse
 
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_chest_new", "RADIANCE", <item:mekanism:mekasuit_bodyarmor>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_ice_chestplate> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_chest_new_alt1", "RADIANCE", <item:mekanism:mekasuit_bodyarmor>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_fire_chestplate> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_chest_new_alt2", "RADIANCE", <item:mekanism:mekasuit_bodyarmor>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_lightning_chestplate> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_helmet_new", "RADIANCE", <item:mekanism:mekasuit_helmet>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_ice_helmet> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_helmet_new_alt1", "RADIANCE", <item:mekanism:mekasuit_helmet>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_fire_helmet> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_helmet_new_alt2", "RADIANCE", <item:mekanism:mekasuit_helmet>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_lightning_helmet> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_pants_new", "RADIANCE", <item:mekanism:mekasuit_pants>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_ice_leggings> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_pants_new_alt1", "RADIANCE", <item:mekanism:mekasuit_pants>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_fire_leggings> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_pants_new_alt2", "RADIANCE", <item:mekanism:mekasuit_pants>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_lightning_leggings> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_boots_new", "RADIANCE", <item:mekanism:mekasuit_boots>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_ice_boots> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_boots_new_alt1", "RADIANCE", <item:mekanism:mekasuit_boots>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_fire_boots> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
 
 <recipetype:astralsorcery:altar>.addRecipe("mekasuit_boots_new_alt2", "RADIANCE", <item:mekanism:mekasuit_boots>, [
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>],
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>],
 		[<item:create:refined_radiance>, <item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>, <item:create:refined_radiance>],
 		[air, <item:mekanism:hdpe_sheet>,<item:iceandfire:dragonsteel_lightning_boots> , <item:mekanism:hdpe_sheet>, air],
 		[<item:create:refined_radiance>, <item:mekanism:pellet_polonium>, <item:mekanism:advanced_induction_cell>, <item:mekanism:pellet_polonium>, <item:create:refined_radiance>],
-		[<item:mana-and-artifice:chimerite_crystal_lime>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:chimerite_crystal_lime>]
+		[<item:mana-and-artifice:enchantment_focus_arcane>, air, <item:vampirism:blood_infused_enhanced_iron_ingot>, air, <item:mana-and-artifice:enchantment_focus_arcane>]
 ], 50, 50);
+
 
 
 // Vampirism
@@ -394,13 +394,13 @@ craftingTable.addShaped("umbrella_new", <item:vampirism:umbrella>, [
 
 //swords
 
-<recipetype:immersiveengineering:arc_furnace>.addRecipe("draconic_fire_sword_new", <item:botania:star_sword>,
+<recipetype:immersiveengineering:arc_furnace>.addRecipe("draconic_fire_sword_new", <item:iceandfire:ghost_sword>.anyDamage(),
 	 [<item:iceandfire:dragonsteel_fire_block> * 1, <item:create:shadow_steel> * 3], 200, 100000, [<item:iceandfire:dragonsteel_fire_sword>], <item:iceandfire:ash> * 3);
 
-<recipetype:immersiveengineering:arc_furnace>.addRecipe("draconic_ice_swordd_new", <item:botania:star_sword>,
+<recipetype:immersiveengineering:arc_furnace>.addRecipe("draconic_ice_swordd_new", <item:iceandfire:ghost_sword>.anyDamage(),
 	 [<item:iceandfire:dragonsteel_ice_block> * 1, <item:create:shadow_steel> * 3], 200, 100000, [<item:iceandfire:dragonsteel_ice_sword>], <item:iceandfire:ash> * 3);
 
-<recipetype:immersiveengineering:arc_furnace>.addRecipe("draconic_lightning_sword_new", <item:botania:star_sword>,
+<recipetype:immersiveengineering:arc_furnace>.addRecipe("draconic_lightning_sword_new", <item:iceandfire:ghost_sword>.anyDamage(),
 	 [<item:iceandfire:dragonsteel_lightning_block> * 1, <item:create:shadow_steel> * 3], 200, 100000, [<item:iceandfire:dragonsteel_lightning_sword>], <item:iceandfire:ash> * 3);
 
 
@@ -415,6 +415,7 @@ craftingTable.addShaped("flight_tiara_new", <item:botania:flight_tiara>, [
         [<item:botania:elementium_ingot>, <item:mekanism:hdpe_pellet>, <item:botania:elementium_ingot>],
         [<item:mana-and-artifice:enchantment_focus_air>, <item:bloodmagic:airsigil>, <item:mana-and-artifice:enchantment_focus_air>]
     ]);
+
 
 
 println("script has been loaded");
